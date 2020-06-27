@@ -3,8 +3,11 @@ This will generate you unleaked passwords, and secure passwords check haveibeenp
 
 [unleaked-password](https://imgur.com/9hYz3u1.png)
 
-**/\ How to run unleakpass /\**
+**- [ x ] How Run unleakpass**
 
-- `git clone https://github.com/Bennitenni111/unleakpass.git
+- `git clone https://github.com/Bennitenni111/unleakpass.git`
 - `cd unleakpass`
 - `python3 PassGen.py`
+
+# Requirements
+- *MUST HAVE PYTHON INSTALLED IN LINUX/WINDOWS*
