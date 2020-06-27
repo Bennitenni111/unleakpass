@@ -3,7 +3,7 @@ This will generate you unleaked passwords, and secure passwords check haveibeenp
 
 ![unleakpass](https://imgur.com/EswYPOv.png)
 
-**- [ x ] How Run unleakpass**
+**- [ x ] How to run unleakpass**
 
 - `git clone https://github.com/Bennitenni111/unleakpass.git`
 - `cd unleakpass`
