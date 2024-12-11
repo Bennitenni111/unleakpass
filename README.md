@@ -1,13 +1,26 @@
-# unleakpass
-This will generate you unleaked passwords, and secure passwords check haveibeenpwned.com if your password have been leaked!
+# UnleakPass: Pwned Password Generator & Checker
 
-![unleakpass](https://imgur.com/EswYPOv.png)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
+[![Python version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
-**- [ x ] How to run unleakpass**
+UnleakPass is a Python-based tool to generate secure, non-leaked passwords or check if a given password has been compromised using the Have I Been Pwned API. It provides a robust way to ensure your passwords are safe and secure.
 
-- `git clone https://github.com/Bennitenni111/unleakpass.git`
-- `cd unleakpass`
-- `python3 PassGen.py`
+## Features
 
-# Requirements
-- *MUST HAVE PYTHON INSTALLED IN LINUX/WINDOWS*
+- **Password Generation**: Creates secure passwords with random characters.
+- **Password Safety Check**: Validates if a password has been leaked or compromised using the Have I Been Pwned database.
+- **Intuitive Loading Animation**: Engages users with a visual loading screen.
+
+## How It Works
+
+1. **Generate a Secure Password**:  
+   If no password is entered, the program generates a secure 15-character password.
+2. **Check Password Safety**:  
+   Verifies if the password exists in any known breaches via the Have I Been Pwned API.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Bennitenni111/unleakpass.git
+   cd unleakpass
